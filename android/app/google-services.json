@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643765076631",
+    "project_id": "carbon-fire",
+    "storage_bucket": "carbon-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643765076631:android:a8bb26e7eb29385d969fd2",
+        "android_client_info": {
+          "package_name": "com.example.carbon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYSKoP7Qhd6pJOXSEkurbwYnooGfAxWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
